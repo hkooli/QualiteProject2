@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_menu_items">
+        <item>@string/Category</item>
+        <item>@string/Groupes</item>
+        <item>@string/Route</item>
+        <item>@string/Delete</item>
+        <item>@string/update</item>
+        <item>@string/done</item>
+        <item>@string/Category</item>
+        <item>@string/Settings</item>
+        <item>@string/add</item>
+        <item>@string/Discard</item>
+        <item>@string/Category</item>
+        <item>@string/SignUp</item>
+        <item>@string/Logout</item>
+    </string-array>
+</resources>

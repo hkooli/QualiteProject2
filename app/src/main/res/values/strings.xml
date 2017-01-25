@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFreeLapWeb</string>
+    <string name="Login">Login</string>
+    <string name="Loginbtn">Login</string>
+    <string name="Newcompte">Register</string>
+    <string name="Motdepasse">Password</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginPage</string>
+    <string name="title_activity_mainpage">Mainpage</string>
+    <string name="title_activity_sing_up">SingUp</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_error_internet">Please check your internet connection</string>
+    <string name="title_error_internet">Erreur</string>
+    <string name="msgserver">Please whait</string>
+    <string name="authsuccef">Logging Successfully</string>
+    <string name="username">User Name</string>
+    <string name="authdeny">Login or Password not valide</string>
+    <string name="forgotpassword">Forgot your password?</string>
+    <string name="rememberme">Keep me logged in</string>
+    <string name="failed_logging">logging problem</string>
+    <string name="succes_Logging">Logging Successfully</string>
+    <string name="failed_value_input">Input value null</string>
+    <string name="failed_recover">User name not exist</string>
+    <string name="boutn_name_recover">Recover</string>
+    <string name="success_recover">Recover success</string>
+    <string name="textwelcom">Welcome, Please login</string>
+    <string name="appname">©2014Freelap| </string>
+    <string name="about">About|</string>
+    <string name="privacy">Privacy</string>
+    <string name="contactus">|ContactUs</string>
+    <string name="email">Email</string>
+    <string name="share">Share</string>
+    <string name="shareadd">success add Share</string>
+    <string name="event">Event</string>
+    <string name="title_activity_recover">Recover</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_download_fragment">DownloadFragment</string>
+    <string name="clear"></string>
+    <string name="title_activity_route_fragment">RouteFragment</string>
+    <!-- Navigation -->
+    <string name="header">User</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="discard">Discard</string>
+    <string name="search">Search</string>
+    <string name="Update">Update</string>
+    <string name="drawer_open">Open drawer navigation</string>
+    <string name="drawer_close">Navigation drawer Close</string>
+    <string name="title_activity_navigation_list">NavigationList</string>
+    <string name="title_activity_logout">Logout</string>
+    <!-- Menu Drawer -->
+    <string name="Category">Category</string>
+    <string name="Groupes">Groupes</string>
+    <string name="Route">Route</string>
+    <string name="Delete">Delete</string>
+    <string name="update">update</string>
+    <string name="Settings">Settings</string>
+    <string name="Discard">Discard</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Logout">Logout</string>
+    <string name="title_activity_feed_users">FeedUsers</string>
+    <!-- Father -->
+    <string name="editprofile">Edit Profile</string>
+    <string name="changepassword">Change Password </string>
+    <string name="mytrainings">My Trainings</string>
+    <!-- child -->
+    <string name="myprofile">My profile</string>
+    <string name="logout">Log out</string>
+
+
+    <!-- edit groupe -->
+    <string name="groupename">Groupe name</string>
+    <string name="groupedescription">Groupe description</string>
+    <string name="boutn_update_editgroup">Mise à jour</string>
+    <string name="feeds_updatecompte">Feeds</string>
+    <string name="membre_updatecompte">Membre</string>
+
+    <!--change password-->
+    <string name="editprofil_oldpassword">Your old passwords</string>
+    <string name="editprofil_newpassword">New passwords</string>
+    <string name="editprofil_retypenewpassword">Retype new password</string>
+    <string name="change_password_user">Password changed</string>
+
+    <!--Tab menu-->
+    <string name="groupes">Groups</string>
+    <string name="calendar">Calendar</string>
+    <string name="trainings">Trainings</string>
+    <string name="devices">Devices</string>
+    <!-- add groupe -->
+    <string name="addgroup">add groupe</string>
+    <string name="add_groupe_msg">Groupe Add</string>
+
+
+</resources>

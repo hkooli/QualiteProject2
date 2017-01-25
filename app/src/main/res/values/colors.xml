@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="layoutlogin">#656d78</color>
+    <color name="buttoninselect">#5bc0de</color>
+    <color name="buttonselect">#3fbae4</color>
+    <color name="login_background_color">#33414e</color>
+    <color name="whilecol">#FFFFFF</color>
+    <color name="colorlistviewfeed">#f5f5f5</color>
+    <color name="colorbackgroundeditgroupes">#D5D5D5</color>
+    <color name="blackcolor">#000000</color>
+    <color name="logomainfreelap">#e34724</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#E5E5E5</color>
+    <color name="black">#000000</color>
+    <color name="background">#EEEEEE</color>
+
+    <color name="transparent">#00000000</color>
+
+    <!-- Status para as lista -->
+    <color name="navigation_view">#DADADC</color>
+    <color name="navigation_items">#303030</color>
+    <color name="gray_navegation">#ffffff</color>
+
+    <color name="blue_light">#33B5E5</color>
+    <color name="purple_light">#AA66CC</color>
+    <color name="green_light">#99CC00</color>
+    <color name="orange_light">#FFBB33</color>
+    <color name="red_light">#FF4444</color>
+
+    <color name="blue_dark">#0099CC</color>
+    <color name="purple_dark">#9933CC</color>
+    <color name="green_dark">#669900</color>
+    <color name="orange_dark">#FF8800</color>
+    <color name="red_dark">#CC0000</color>
+    <color name="btn_update_feed_background">#3fbae4</color>
+
+</resources>
